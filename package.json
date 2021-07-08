@@ -1,0 +1,19 @@
+{
+  "name": "api-node-express-mongodb",
+  "version": "1.0.0",
+  "description": "Api tutorial",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Felipe Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "nodemon": "^2.0.10"
+  }
+}
